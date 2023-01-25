@@ -1,0 +1,12 @@
+body
+{
+	background-color: #808080;
+	front-family: Verdana;
+	front-size: 32px;
+	color: yellow;
+}
+a:link
+{
+	font-size: 42px;
+	color:199;
+}
